@@ -1,0 +1,33 @@
+body, html {
+  margin: 0;
+  margin-top: 50px;
+}
+table {
+  border: 1px solid;
+  border-collapse: collapse;
+  width: 600px;
+  margin: 0 auto;
+}
+
+thead {
+  background-color: black;
+  color: white;
+}
+tbody {
+  border: 1px solid;
+}
+
+tr {
+  height: 35px;
+}
+.body td{
+  border-right: 1px solid;
+
+}
+
+.summ {
+  text-align: center;
+}
+
+
+
